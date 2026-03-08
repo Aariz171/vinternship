@@ -421,6 +421,13 @@ If a student does not attend or engage during their booked slots, penalties may 
 
 The main goal of this feature is to encourage discipline, consistency, and accountability in learning rather than passive participation. -->
 
+**7.11 When should I use the Flag option on ViBe, and when should I contact support on Discord?**
+Use the Flag feature on ViBe only for course content-related issues, such as problems with video content or quiz questions.
+
+For technical issues, platform errors, login problems, or logistics-related queries, do not use the flag option. Instead, raise a ticket in the Discord support channel so the team can assist you faster.
+
+Using the correct method helps resolve issues quickly and keeps the learning process smooth for everyone.
+
 ---
 
 
