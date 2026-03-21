@@ -176,10 +176,10 @@ The Live session recordings from 20th Feb are available in this Youtube Playlist
 ## 5. Completion, Certification & Offer Letter
 
 **5.1 What are the program completion criteria?**  
-- Completion of all course modules on the Learning platform. (Required)
-- Completion of case studies provided for learning using the code. (Required)
-- Completion of Viva/endorsement for the Case Study.(Required)
-- Contribution to real-time applications or projects.(Optional)
+- Completion of all course modules on the Learning platform.
+- Completion of case studies provided for learning using the code.
+- Completion of Viva/endorsement for the Case Study.
+- Contribution to real-time applications or projects.
 
 **5.2 Where can I find information on certification?**  
 NPTEL interns (whom joined after successful course completion) should contact the NPTEL internship team for the information regarding certificates.
