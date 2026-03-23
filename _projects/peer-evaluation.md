@@ -7,7 +7,7 @@ color: "8B5CF6"
 repo: "vicharanashala/pes"
 features: []
 mentors:
-  - To be decided
+  - Jinal Gupta
 ---
 
 ## **Project Overview**
